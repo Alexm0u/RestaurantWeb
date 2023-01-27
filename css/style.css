@@ -1,12 +1,7 @@
-body {
-    font-family: 'Open Sans', sans-serif;
-    background-image: url(../img/Espasio.jpg);
-}
+body{background-image: url(../img/background.jpg);}
 
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+.navbar-brand {
+    color: rgb(201, 13, 13);
 }
 
 .navbar-brand img {
@@ -15,24 +10,19 @@ body {
     margin-right: 10px;
 }
 
-
-.navbar-brand:hover {
-    color: blueviolet
+.primer-bloque {
+    color: aliceblue;
+    font-size: 0, 8rem;
 }
 
-.nav-link {
-    color: white
+.encabezado-segundo-bloque {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-size: 30px;
 }
-
-/* Google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&family=Open+Sans:wght@400;500;600;700&display=swap');
-.primer-bloque {color: aliceblue;
-font-size: 0,8rem}
-
-.encabezado-segundo-bloque{color: aliceblue;
-text-align: center;
-padding-top: 25px;
-padding-bottom: 10px;
-font-size: 30px;}
-
-.card{text-align: center;}
+.
+.card {
+    text-align: center;
+}
