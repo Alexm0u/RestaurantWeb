@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(../img/Espasio.jpg);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar-brand img {
+    widht: 32px;
+    height: 32px;
+    margin-right: 10px;
+}
+
+
+.navbar-brand:hover {
+    color: blueviolet
+}
+
+.nav-link {
+    color: white
+}
+
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&family=Open+Sans:wght@400;500;600;700&display=swap');
+.primer-bloque {color: aliceblue;}
