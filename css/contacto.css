@@ -1,3 +1,5 @@
+.body{ display: flex;}
+
 .navbar-brand img {
     widht: 32px;
     height: 32px;
@@ -7,3 +9,4 @@
 
 .nav-link:hover {border: 0.5px solid rgb(238, 204, 12);
 }
+.map-responsive{align-items: center;}
