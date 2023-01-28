@@ -1,19 +1,17 @@
 .body {
     background-image: url(../img/Neon-4k-Wallpaper.jpg);
-    font-family: 'Courier New', Courier, monospace;
-}
-.navbar-brand{color: aliceblue;}
-.navbar-brand:hover{
-    color: aliceblue;
-}
-.navbar-nav{justify-content: end;}
-.nav-link{color: aliceblue;}
+    font-family: 'Courier New', Courier, monospace;}
+
+
 .navbar-brand img {
     widht: 32px;
     height: 32px;
     margin-right: 10px;
 }
+.nav-link {transition: all 0.1s;}
 
+.nav-link:hover {border: 0.5px solid rgb(238, 204, 12);
+}
 
 .primer-bloque {
     color: aliceblue;
