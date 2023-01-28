@@ -1,7 +1,6 @@
-body{background-image: url(../img/background.jpg);}
+.body{background-image: url(../img/Neon-4k-Wallpaper.jpg)
 
-.navbar-brand {
-    color: rgb(201, 13, 13);
+.navbar-brand { color: rgb(201, 13, 13);
 }
 
 .navbar-brand img {
@@ -13,16 +12,4 @@ body{background-image: url(../img/background.jpg);}
 .primer-bloque {
     color: aliceblue;
     font-size: 0, 8rem;
-}
-
-.encabezado-segundo-bloque {
-    color: aliceblue;
-    text-align: center;
-    padding-top: 25px;
-    padding-bottom: 10px;
-    font-size: 30px;
-}
-.
-.card {
-    text-align: center;
 }
