@@ -11,7 +11,7 @@ Este proyecto consiste en crear un menú o carta de un restaurante digital. En e
 
 ![imagen](./img/img%20readme%201.PNG)
 
-Hemos creado en la barra de navegación, además del logo del restaurante, 4 pestañas que nos llevan a diferentes apartados de la web. Al clickar en el logo simpre nos va a re-dirigir a la página de inicio:
+Hemos creado en la barra de navegación, además del logo del restaurante, 4 pestañas que nos llevan a diferentes apartados de la web. Al clickar en el logo siempre nos va a re-dirigir a la página de inicio:
 
 ![imagen](./img/img%20readme%202.PNG)
 
@@ -23,7 +23,7 @@ Por último, en contacto he creado un botón que enlaza directamente con el env�
 
 ![imagen](./img/img%20readme%205.PNG)
 
-Para este proyecto se han utilizado las tecnologías HTML y CSS.
+Para este proyecto se han utilizado las tecnologías HTML, CSS y Bootstrap.
 
 Puedes ver este proyecto en ⇥ [GitHub pages](https://github.com/Alexm0u/amc-geekshub-fsd-project1.git)
 
