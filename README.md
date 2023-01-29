@@ -29,4 +29,5 @@ Puedes ver este proyecto en ⇥ [GitHub pages](https://github.com/Alexm0u/amc-ge
 
 -----------------------------------------------------
 Autor: Àlex Moya
+
 Última edición: 29/01/2023
