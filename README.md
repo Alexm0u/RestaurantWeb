@@ -23,7 +23,7 @@ Por último, en contacto he creado un botón que enlaza directamente con el env�
 
 ![imagen](./img/img%20readme%205.PNG)
 
-Para este proyecto se han utilizado las tecnologías HTML, CSS, Javascript y Bootstrap.
+Para este proyecto se han utilizado las tecnologías HTML y CSS.
 
 Puedes ver este proyecto en ⇥ [GitHub pages](https://github.com/Alexm0u/amc-geekshub-fsd-project1.git)
 
