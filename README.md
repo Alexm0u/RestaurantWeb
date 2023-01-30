@@ -19,7 +19,7 @@ Aquí tenemos un primer vistazo a la página "Cocktails&Food", dónde hemos aña
 
 ![imagen](./img/img%20readme%203.PNG) ; ![imagen](./img/img%20readme%204.PNG)
 
-Por último, en contacto he creado un botón que enlaza directamente con el envío de un mail y añadida la localización GPS del local. También incluye un enlace directo al Instagram del restaurante.
+Por último, en contacto he creado un botón que enlaza directamente con el envío de un mail y añadida la localización GPS del local. También incluye un enlace directo mediante iconos a las páginas de Instagram y Facebook del restaurante.
 
 ![imagen](./img/img%20readme%205.PNG)
 
