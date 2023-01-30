@@ -25,9 +25,9 @@ Por último, en contacto he creado un botón que enlaza directamente con el env�
 
 Para este proyecto se han utilizado las tecnologías HTML, CSS y Bootstrap.
 
-Puedes ver este proyecto en ⇥ [GitHub pages](https://github.com/Alexm0u/amc-geekshub-fsd-project1.git)
+Puedes ver este proyecto en ⇥ [GitHub pages](https://alexm0u.github.io/RestaurantWeb/)
 
 -----------------------------------------------------
 Autor: Àlex Moya
 
-Última edición: 29/01/2023
+Última edición: 30/01/2023
