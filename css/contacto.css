@@ -9,7 +9,6 @@ body {
 }
 
 .navbar-brand img {
-    widht: 32px;
     height: 32px;
     margin-right: 10px;
 }
@@ -24,4 +23,13 @@ body {
 
 .map-responsive {
     align-items: center;
+}
+
+.responsive-map{
+    width: 100%;
+    height: 100%;
+}
+
+.map-column{
+    height: 40vh;
 }
